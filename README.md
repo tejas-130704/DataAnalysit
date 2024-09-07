@@ -54,4 +54,7 @@ These dashboards allow HR managers to explore trends in employee presence and at
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/presence-insights-of-employees.git
+   https://github.com/tejas-130704/DataAnalysit.git
+
+## Learning Experience
+During this project, I gained significant experience working with Power BI, enhancing my skills in creating insightful visualizations. I learned how to efficiently analyze attendance data and generate actionable reports for HR management.
